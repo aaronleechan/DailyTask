@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/aarlic/.vscode/extensions/ms-dotnettools.vscode-dotnet-pack-1.0.13/misc/DailyList/DailyList/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/aarlic/.vscode/extensions/ms-dotnettools.vscode-dotnet-pack-1.0.13/misc/DailyList/DailyList/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/DailyList.app

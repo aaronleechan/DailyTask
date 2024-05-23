@@ -1,0 +1,15 @@
+/Users/aarlic/.nuget/packages/microsoft.extensions.configuration/8.0.0/lib/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/aarlic/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/lib/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/aarlic/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/lib/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/aarlic/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/aarlic/.nuget/packages/microsoft.extensions.logging/8.0.0/lib/net8.0/Microsoft.Extensions.Logging.dll
+/Users/aarlic/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/lib/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/aarlic/.nuget/packages/microsoft.extensions.logging.debug/8.0.0-preview.5.23280.8/lib/net8.0/Microsoft.Extensions.Logging.Debug.dll
+/Users/aarlic/.nuget/packages/microsoft.extensions.options/8.0.0/lib/net8.0/Microsoft.Extensions.Options.dll
+/Users/aarlic/.nuget/packages/microsoft.extensions.primitives/8.0.0/lib/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/aarlic/.nuget/packages/microsoft.maui.controls.compatibility/8.0.21/lib/net8.0-maccatalyst17.2/Microsoft.Maui.Controls.Compatibility.dll
+/Users/aarlic/.nuget/packages/microsoft.maui.controls.core/8.0.21/lib/net8.0-maccatalyst17.2/Microsoft.Maui.Controls.dll
+/Users/aarlic/.nuget/packages/microsoft.maui.controls.xaml/8.0.21/lib/net8.0-maccatalyst17.2/Microsoft.Maui.Controls.Xaml.dll
+/Users/aarlic/.nuget/packages/microsoft.maui.core/8.0.21/lib/net8.0-maccatalyst17.2/Microsoft.Maui.dll
+/Users/aarlic/.nuget/packages/microsoft.maui.essentials/8.0.21/lib/net8.0-maccatalyst17.2/Microsoft.Maui.Essentials.dll
+/Users/aarlic/.nuget/packages/microsoft.maui.graphics/8.0.21/lib/net8.0-maccatalyst17.2/Microsoft.Maui.Graphics.dll

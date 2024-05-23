@@ -150,3 +150,12 @@ Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
 Xamarin.Google.Crypto.Tink.Android.aar
 Xamarin.Google.ErrorProne.Annotations.aar
+Jsr305Binding.dll
+Xamarin.AndroidX.Annotation.Jvm.dll
+Xamarin.AndroidX.CustomView.PoolingContainer.dll
+Xamarin.AndroidX.ProfileInstaller.ProfileInstaller.dll
+Xamarin.AndroidX.Window.Extensions.Core.Core.dll
+androidx.profileinstaller.profileinstaller.aar
+androidx.customview.customview-poolingcontainer.aar
+androidx.window.extensions.core.core.aar
+Jsr305Binding.aar
